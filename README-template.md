@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-using-tailwindcss-NOAAcejkKX
 - Live Site URL: https://venerable-shortbread-11ac73.netlify.app/
 
 ## My process
