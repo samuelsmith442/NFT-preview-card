@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [(https://venerable-shortbread-11ac73.netlify.app/)](https://your-live-site-url.com)
+- Live Site URL: https://venerable-shortbread-11ac73.netlify.app/
 
 ## My process
 
